@@ -88,7 +88,6 @@ python test_GAC.py --dataset Liver_CT --img_size 224 --max_epochs 20
 ```
 
 ## 4. Acknowledgement
-The authors would like to thank the organization team of [MICCAI 2018 Atrial Segmentation Challenge](https://www.cardiacatlas.org/atriaseg2018-challenge/) and [AbdomenCT-1K](https://abdomenct-1k-fully-supervised-learning.grand-challenge.org/)  for the publicly available dataset. 
-The code is built on top of [UNet](https://github.com/milesial/Pytorch-UNet) and [SegWithDistMap](https://github.com/JunMa11/SegWithDistMap). We would like to sincerely thanks those authors for their great works. 
+The authors would like to thank the organization team of [MICCAI 2018 Atrial Segmentation Challenge](https://www.cardiacatlas.org/atriaseg2018-challenge/) and [AbdomenCT-1K](https://abdomenct-1k-fully-supervised-learning.grand-challenge.org/)  for the publicly available dataset. The code is built on top of [UNet](https://github.com/milesial/Pytorch-UNet) and [SegWithDistMap](https://github.com/JunMa11/SegWithDistMap). We would like to sincerely thank those authors for their great works. 
 
 
