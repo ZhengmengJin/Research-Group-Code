@@ -4,16 +4,24 @@
 ## Regularized CNN with Geodesic Active Contour and Edge Predictor for Image Segmentation
 
 **Zhengmeng Jin, Hao Wang, Michael K.Ng, Lihua Min**
- 
+
+ SIAM Journal on Imaging Sciences
 
 
-[[Paper]()]
+[[Paper](https://epubs.siam.org/doi/10.1137/24M1633868)]
 
 
 If our project is helpful for your research, please consider citing : 
 ``` 
-@
-        }
+@article{
+author = {Jin, Zhengmeng and Wang, Hao and Ng, Michael K. and Min, Lihua},
+title = {Regularized CNN with Geodesic Active Contour and Edge Predictor for Image Segmentation},
+journal = {SIAM Journal on Imaging Sciences},
+volume = {17},
+number = {4},
+pages = {2392-2417},
+year = {2024}
+}
 ```
 
 
